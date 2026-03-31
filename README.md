@@ -75,19 +75,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainsarthak0205&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsarthak0205&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jainsarthak0205&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
